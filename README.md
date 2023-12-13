@@ -1,4 +1,4 @@
 # VuckovicNikola-PIT
-Vuckovic Nikola,
-S.C Nikola Tesla,
+Vučković Nikola,
+Š.C Nikola Tesla,
 III-2
